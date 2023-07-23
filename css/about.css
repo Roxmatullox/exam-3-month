@@ -341,16 +341,13 @@ footer .footer-text .footer-logo p {
 .dark {
   background-color: #242424;
 }
-.dark .contact-text h2 {
-  color: white;
+.dark .about-content h4 {
+  color: #fff;
 }
-.dark .contact-socials h4 {
-  color: #000;
+.dark .about-content p {
+  color: #fff;
 }
-.dark .contact-socials p {
-  color: #000;
-}
-.dark .map-container h2 {
+.dark .about-text h2 {
   color: #FFF;
 }
 
