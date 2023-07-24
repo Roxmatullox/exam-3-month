@@ -63,6 +63,12 @@
     width: 100%;
   }
 }
+.contact-us .container-login .contact-card {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-top: 30px;
+}
 .contact-us .container-login .container-massage {
   max-width: 790px;
   padding: 40px;
@@ -464,4 +470,8 @@ footer .footer-text .footer-logo p {
 
 #myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
+}
+
+#navbar {
+  transition: 1s;
 }
