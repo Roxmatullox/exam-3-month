@@ -4,8 +4,11 @@
   width: 100%;
   position: fixed;
   z-index: 9999;
-  .nav-link.active{
-    color: white;
+  .navbar-nav .nav-link.active{
+    background-color: #FFF;
+    color: #BB2339;
+    padding: 10px 15px;
+    border-radius: 40px;
   }
   .nav-link{
     color:#fff;

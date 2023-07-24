@@ -5,8 +5,11 @@
   position: fixed;
   z-index: 9999;
 }
-.nav1 .nav-link.active {
-  color: white;
+.nav1 .navbar-nav .nav-link.active {
+  background-color: #FFF;
+  color: #BB2339;
+  padding: 10px 15px;
+  border-radius: 40px;
 }
 .nav1 .nav-link {
   color: #fff;
